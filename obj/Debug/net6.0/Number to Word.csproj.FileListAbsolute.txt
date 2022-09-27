@@ -1,0 +1,15 @@
+C:\Users\Bernard Sapida\Documents\Roadmap\Commissions\Number to Word\bin\Debug\net6.0\Number to Word.exe
+C:\Users\Bernard Sapida\Documents\Roadmap\Commissions\Number to Word\bin\Debug\net6.0\Number to Word.deps.json
+C:\Users\Bernard Sapida\Documents\Roadmap\Commissions\Number to Word\bin\Debug\net6.0\Number to Word.runtimeconfig.json
+C:\Users\Bernard Sapida\Documents\Roadmap\Commissions\Number to Word\bin\Debug\net6.0\Number to Word.dll
+C:\Users\Bernard Sapida\Documents\Roadmap\Commissions\Number to Word\bin\Debug\net6.0\Number to Word.pdb
+C:\Users\Bernard Sapida\Documents\Roadmap\Commissions\Number to Word\obj\Debug\net6.0\Number to Word.csproj.AssemblyReference.cache
+C:\Users\Bernard Sapida\Documents\Roadmap\Commissions\Number to Word\obj\Debug\net6.0\Number to Word.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bernard Sapida\Documents\Roadmap\Commissions\Number to Word\obj\Debug\net6.0\Number to Word.AssemblyInfoInputs.cache
+C:\Users\Bernard Sapida\Documents\Roadmap\Commissions\Number to Word\obj\Debug\net6.0\Number to Word.AssemblyInfo.cs
+C:\Users\Bernard Sapida\Documents\Roadmap\Commissions\Number to Word\obj\Debug\net6.0\Number to Word.csproj.CoreCompileInputs.cache
+C:\Users\Bernard Sapida\Documents\Roadmap\Commissions\Number to Word\obj\Debug\net6.0\Number to Word.dll
+C:\Users\Bernard Sapida\Documents\Roadmap\Commissions\Number to Word\obj\Debug\net6.0\refint\Number to Word.dll
+C:\Users\Bernard Sapida\Documents\Roadmap\Commissions\Number to Word\obj\Debug\net6.0\Number to Word.pdb
+C:\Users\Bernard Sapida\Documents\Roadmap\Commissions\Number to Word\obj\Debug\net6.0\Number to Word.genruntimeconfig.cache
+C:\Users\Bernard Sapida\Documents\Roadmap\Commissions\Number to Word\obj\Debug\net6.0\ref\Number to Word.dll
